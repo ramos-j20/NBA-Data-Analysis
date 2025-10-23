@@ -4,25 +4,6 @@ This project provides an in-depth analysis of NBA player and team performance us
 
 ---
 
-## Project Structure
-NBA-Analysis/
-│
-├── data/
-│ ├── Regular_Season.csv # Raw regular season data
-│ └── Playoffs.csv # Raw playoffs data
-│
-├── notebooks/
-│ └── nba_analysis.ipynb # Jupyter Notebook with analysis & visualizations
-│
-├── outputs/
-│ └── leaderboard_*.csv # Exported leaderboards (PTS, REB, AST)
-│
-├── README.md # Project overview
-└── requirements.txt # Python dependencies
-
-
----
-
 ## Technologies Used
 
 - Python 3.x  
